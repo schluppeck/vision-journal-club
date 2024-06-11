@@ -5,7 +5,8 @@ Some resources for the Visual Neuroscience Group meetings. Restarted in 2024.
 <figure>
 
 <img src="images/journal-club-image.jpg" width="60%"/>
-<br
+<br><br>
+
 <caption>How stable diffusion sees our vision journal club with some prompting</caption>
 </figure>
 
