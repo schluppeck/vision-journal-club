@@ -21,7 +21,7 @@ You can find notes, presentations, and code at the [github repository](https://g
 | date            | Presenter   | Topic                                                     |
 | --------------- | ----------- | --------------------------------------------------------- |
 | Thurs 6 June 2024| Neil R, Denis  | Restart, NR: Effect of self-induced motion, presentation [[notes][initial-notes]] |
-| Thurs 20 June 2024 | TBC  | |
+| Thurs 20 June 2024 | Matthew S, Rowan H, Denis S| PhD project updates, CVI project (short, ~5 slides each)|
 | Thurs 4 July 2024 | Alan J | Motion. Models / psychophysics. |
 
 
